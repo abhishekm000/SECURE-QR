@@ -40,9 +40,7 @@ Built using:
 
 ---
 
-## 📷 Screenshots
 
-(Add screenshots here)
 
 ---
 
@@ -71,10 +69,10 @@ Built using:
 
 ## 🌐 Live Demo
 
-(Add GitHub Pages link here)
+secureqrs.netlify.app
 
 ---
 
 ## 👨‍💻 Author
 
-Your Name
+ABHISHEK M
